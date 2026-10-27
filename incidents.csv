@@ -1,0 +1,21 @@
+Incident_ID,Worker_ID,Department,Date,Shift,Incident_Type,Description,Cause,Severity,Incident_Status,Likelihood,Consequence
+INC001,W001,Mining,8/1/2026,Day,Slip/Fall,Worker slipped on wet walkway,Wet Surface,Medium,Closed,2,3
+INC002,W002,Processing,8/2/2026,Night,Equipment,Worker's hand came close to moving machine,Unsafe Operation,High,Open,4,4
+INC003,W003,Mining,8/3/2026,Day,PPE,Worker was found without a safety helmet,Non-compliance,High,Open,3,4
+INC004,W004,Maintenance,8/4/2026,Night,Injury,Worker received a minor hand injury,Poor Handling,Low,Closed,2,2
+INC005,W005,Mining,8/5/2026,Night,Slip/Fall,Worker fell while walking near conveyor,Wet Surface,Critical,Open,5,5
+INC006,W006,Engineering,8/6/2026,Day,Equipment,Unexpected equipment movement occurred,Equipment Failure,High,Under Investigation,4,4
+INC007,W007,Processing,8/7/2026,Day,PPE,Worker was not wearing safety gloves,Non-compliance,Medium,Closed,3,3
+INC008,W008,Mining,8/8/2026,Night,Injury,Worker suffered a minor leg injury,Poor Handling,Medium,Closed,2,3
+INC009,W009,Maintenance,8/9/2026,Day,Equipment,Power tool stopped working during maintenance,Equipment Failure,High,Under Investigation,3,4
+INC010,W010,Mining,8/10/2026,Day,Slip/Fall,Worker tripped over material on walkway,Unsafe Operation,Medium,Closed,3,3
+INC011,W011,Processing,8/11/2026,Night,PPE,Worker entered area without safety goggles,Non-compliance,High,Open,4,3
+INC012,W012,Engineering,8/12/2026,Day,Equipment,Guard on machine was found damaged,Equipment Failure,Critical,Open,5,5
+INC013,W013,Mining,8/13/2026,Night,Injury,Worker experienced a minor back injury,Poor Handling,Medium,Under Investigation,3,3
+INC014,W014,Maintenance,8/14/2026,Day,Slip/Fall,Worker slipped due to oil on floor,Wet Surface,High,Open,4,4
+INC015,W015,Mining,8/15/2026,Day,PPE,Worker was not wearing required hearing protection,Non-compliance,Medium,Closed,3,3
+INC016,W016,Processing,8/16/2026,Night,Injury,Worker injured finger while handling material,Poor Handling,High,Under Investigation,4,3
+INC017,W017,Engineering,8/17/2026,Day,Equipment,Conveyor stopped unexpectedly,Equipment Failure,Medium,Closed,3,4
+INC018,W018,Mining,8/18/2026,Night,Slip/Fall,Worker tripped near storage area,Unsafe Operation,Low,Closed,2,2
+INC019,W019,Processing,8/19/2026,Day,PPE,Worker was not wearing reflective vest,Non-compliance,Medium,Open,3,3
+INC020,W020,Mining,8/20/2026,Night,Equipment,Drilling equipment experienced an unexpected fault,Equipment Failure,Critical,Open,5,5

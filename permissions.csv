@@ -1,0 +1,6 @@
+﻿Role,View Dashboard,Worker safety data,Safety incidents,Equipment data,Maintenance data,Risk Assessment,Generate reports,Manage user
+Administrator,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Safety Officer,Yes,Yes,Yes,No,No,Yes,Yes,No
+Mining Engineer,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Maintenance Engineer,Yes,No,No,Yes,Yes,No,Yes,No
+Manager,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No

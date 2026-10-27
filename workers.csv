@@ -1,0 +1,7 @@
+Worker ID,Department,Job Role,Shift,Job role,PPE compliance,Safety training,Fatigue level,Near misses,Previous incidents
+ADMIN001,Administration,,Day,Admin,Yes,Complete,Medium,5,7
+ADMIN002,Administration,,Day,Clerk,Yes,Complete,Medium,7,8
+ADMIN003,Administration,,Night,Clerk,Yes,Complete,Low,7,3
+SafetyOff001,Safety Officer,,Day,Safety Officer,Yes,Complete,Medium,4,6
+ADMIN004,Administration,,Night,Admin,Yes,Complete,Medium,4,5
+ADMIM005A,Administration,,Night,Clerk,Yes,Complete,High,4,8

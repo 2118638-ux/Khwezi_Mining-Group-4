@@ -1,0 +1,51 @@
+Equipment_ID,Equipment_Type,Manufacturer,Operating_Hours,Temperature,Vibration,Fuel_Consumption,Brake_Status,Tyre_Status,Engine_Status,Maintenance_Status,Last_Service_Date,Downtime,Operating_Time,Availability,Alert_Count
+LOD-001,Loader,Liebherr,420.1,56.5,7.03,41.0,OK,OK,OK,Up to Date,2026-07-20,6.6,124.5,95.0,3
+DRL-001,Drilling Machine,Volvo,4153.0,75.2,5.48,23.6,OK,OK,OK,Up to Date,2026-06-12,3.1,113.4,97.3,3
+TRK-001,Haul Truck,Komatsu,6621.6,78.2,3.15,38.7,OK,Worn,OK,Up to Date,2026-06-26,21.1,84.0,79.9,1
+LOD-002,Loader,Volvo,3545.1,74.2,2.39,32.8,OK,OK,OK,Up to Date,2026-05-13,19.0,127.0,87.0,2
+DRL-002,Drilling Machine,Komatsu,6224.6,95.5,1.13,19.7,OK,OK,Fault,Due,2026-05-30,26.3,107.7,80.4,3
+BLD-001,Bulldozer,Epiroc,1428.7,90.8,6.29,29.6,OK,Needs Replacement,OK,Overdue,2026-07-31,14.8,146.5,90.8,2
+CRS-001,Crusher,Volvo,5448.4,67.3,1.98,28.5,Fault,OK,OK,Overdue,2026-06-13,26.5,146.1,84.6,1
+CRS-002,Crusher,Sandvik,1591.8,70.9,7.92,36.2,OK,OK,OK,Up to Date,2026-06-05,25.3,124.7,83.1,2
+TRK-002,Haul Truck,Komatsu,5470.7,53.2,4.84,37.9,OK,OK,OK,Overdue,2026-02-26,2.4,144.4,98.4,2
+EXC-001,Excavator,Sandvik,6005.8,104.1,3.37,43.7,Needs Attention,Worn,OK,Due,2026-06-05,21.4,115.1,84.3,3
+CNV-001,Conveyor,Epiroc,1264.8,59.8,1.9,16.1,OK,OK,OK,Up to Date,2026-07-10,27.2,155.6,85.1,1
+CNV-002,Conveyor,Epiroc,2085.3,77.1,2.84,37.0,Needs Attention,OK,OK,Up to Date,2026-03-06,12.9,117.3,90.1,0
+LOD-003,Loader,Caterpillar,733.4,96.0,1.75,27.8,OK,OK,OK,Overdue,2026-04-21,26.2,86.6,76.8,2
+TRK-003,Haul Truck,Liebherr,8727.2,117.1,2.89,15.9,OK,OK,OK,Overdue,2026-05-15,29.6,103.3,77.7,2
+CNV-003,Conveyor,Caterpillar,1562.2,78.1,3.11,35.7,OK,OK,OK,Under Maintenance,2026-08-19,25.6,93.9,78.6,1
+LOD-004,Loader,Komatsu,6141.9,53.5,9.06,30.0,OK,OK,OK,Up to Date,2026-03-09,15.7,162.3,91.2,2
+BLD-002,Bulldozer,Komatsu,3682.9,58.7,3.93,10.7,OK,Needs Replacement,Fault,Up to Date,2026-06-11,2.2,98.8,97.8,0
+SCR-001,Scraper Winch,Caterpillar,2707.9,65.8,4.84,37.9,OK,OK,OK,Overdue,2026-07-03,28.0,89.1,76.1,1
+EXC-002,Excavator,Komatsu,2596.7,70.8,3.47,17.8,OK,Worn,OK,Up to Date,2026-09-08,2.8,117.3,97.7,0
+BLD-003,Bulldozer,Volvo,1621.9,70.5,1.44,43.0,OK,OK,OK,Up to Date,2026-08-29,11.1,128.6,92.1,0
+TRK-004,Haul Truck,Caterpillar,8110.5,57.2,4.04,40.7,OK,OK,OK,Under Maintenance,2026-07-25,27.9,156.1,84.8,2
+EXC-003,Excavator,Volvo,6681.8,77.0,7.59,38.0,OK,Worn,OK,Up to Date,2026-05-14,26.2,155.6,85.6,2
+DRL-003,Drilling Machine,Sandvik,2161.7,61.6,1.27,36.6,OK,OK,OK,Up to Date,2026-07-04,25.3,109.1,81.2,1
+BLD-004,Bulldozer,Volvo,536.7,60.0,6.31,44.4,OK,Worn,OK,Up to Date,2026-04-24,1.3,118.4,98.9,1
+CRS-003,Crusher,Epiroc,815.8,59.6,4.31,34.6,OK,OK,OK,Up to Date,2026-05-24,12.1,106.0,89.8,1
+EXC-004,Excavator,Epiroc,5616.5,65.9,2.12,23.9,OK,OK,OK,Up to Date,2026-03-04,13.3,98.8,88.1,0
+LOD-005,Loader,Liebherr,2697.3,68.0,4.71,16.7,OK,Worn,OK,Due,2026-02-24,1.4,166.6,99.2,0
+CRS-004,Crusher,Liebherr,7998.0,70.8,2.56,13.5,OK,Worn,OK,Up to Date,2026-03-14,26.6,148.5,84.8,3
+TRK-005,Haul Truck,Liebherr,5105.2,103.3,2.81,27.7,OK,OK,OK,Overdue,2026-05-22,13.3,151.7,91.9,3
+EXC-005,Excavator,Caterpillar,6744.2,57.5,3.49,36.3,OK,OK,OK,Up to Date,2026-06-19,2.3,105.1,97.9,2
+EXC-006,Excavator,Liebherr,1527.3,54.4,2.62,20.2,OK,OK,OK,Under Maintenance,2026-09-03,11.7,147.7,92.7,2
+CNV-004,Conveyor,Volvo,251.9,71.9,7.86,23.5,OK,OK,OK,Up to Date,2026-09-01,6.6,99.3,93.8,2
+CRS-005,Crusher,Volvo,6572.8,98.4,10.18,41.6,OK,OK,OK,Up to Date,2026-07-04,12.9,156.3,92.4,3
+DRL-004,Drilling Machine,Caterpillar,4201.4,75.5,4.71,23.6,Needs Attention,OK,OK,Up to Date,2026-08-22,1.6,163.8,99.0,0
+DRL-005,Drilling Machine,Volvo,1954.4,54.4,3.61,28.9,OK,OK,OK,Due,2026-08-10,5.0,133.4,96.4,0
+LOD-006,Loader,Caterpillar,5292.4,111.9,9.56,42.8,OK,OK,OK,Up to Date,2026-03-17,7.3,141.4,95.1,4
+TRK-006,Haul Truck,Epiroc,3255.4,60.7,2.33,39.4,Needs Attention,OK,Fault,Due,2026-05-20,19.1,152.9,88.9,1
+BLD-005,Bulldozer,Epiroc,5620.0,115.7,4.22,29.9,OK,OK,Fault,Overdue,2026-04-16,8.4,119.7,93.4,3
+CRS-006,Crusher,Liebherr,3160.3,59.4,2.38,17.6,OK,OK,OK,Up to Date,2026-07-09,16.7,125.5,88.3,2
+DRL-006,Drilling Machine,Volvo,6277.4,64.2,5.28,16.2,OK,OK,OK,Up to Date,2026-03-02,14.2,126.7,89.9,3
+SCR-002,Scraper Winch,Sandvik,6385.1,57.3,1.75,12.4,OK,Worn,OK,Due,2026-02-26,6.5,122.6,95.0,2
+BLD-006,Bulldozer,Caterpillar,8828.5,85.9,2.18,34.2,OK,OK,OK,Due,2026-02-28,8.8,163.1,94.9,2
+TRK-007,Haul Truck,Volvo,5251.8,62.8,1.2,42.8,OK,Worn,OK,Up to Date,2026-08-01,2.2,135.4,98.4,2
+LOD-007,Loader,Sandvik,8946.5,72.2,4.08,16.4,OK,OK,OK,Up to Date,2026-04-03,25.8,167.1,86.6,1
+LOD-008,Loader,Epiroc,8538.8,56.1,5.47,14.4,OK,OK,OK,Up to Date,2026-03-12,17.8,105.6,85.6,2
+CNV-005,Conveyor,Volvo,826.4,57.7,6.77,37.7,OK,OK,OK,Up to Date,2026-08-24,4.5,103.4,95.8,1
+BLD-007,Bulldozer,Sandvik,4064.6,58.8,2.06,28.0,OK,OK,OK,Up to Date,2026-07-12,22.0,133.1,85.8,3
+TRK-008,Haul Truck,Volvo,8996.2,57.8,3.95,25.4,OK,Worn,OK,Up to Date,2026-08-16,17.6,135.9,88.5,2
+CRS-007,Crusher,Sandvik,3133.1,74.9,3.71,18.7,Fault,Worn,OK,Up to Date,2026-02-23,13.6,107.7,88.8,1
+TRK-009,Haul Truck,Caterpillar,5987.4,62.0,2.41,36.0,OK,Worn,OK,Up to Date,2026-03-14,16.5,161.6,90.7,2
